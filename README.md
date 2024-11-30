@@ -1,6 +1,6 @@
 # Ray-tracing-engine
 
-> Xu Si , Tsinghua Univ.
+> X.Si Tsinghua CST
 
 This ray tracing engine is a rendering engine written in C++ using a path tracing algorithm to achieve high-quality image rendering. It supports a variety of rendering effects and functions, allowing for the creation of realistic scenes.
 
